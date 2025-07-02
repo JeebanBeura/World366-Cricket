@@ -1,2 +1,1 @@
-# World366-Cricket
-World366 Cricket
+# The Daily Vibe
